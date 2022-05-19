@@ -60,7 +60,7 @@ plt.imshow(edges1)
 
 ### Display the result of Hough transform
 
-![image](2.png)
+![image](3.png)
 
 
 ## Result:
