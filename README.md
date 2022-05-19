@@ -50,7 +50,7 @@ plt.imshow(edges1)
 
 ### Input image and grayscale image
 
-![image](4.png)
+![image](1.png)
 
 
 ### Canny Edge detector output
